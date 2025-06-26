@@ -72,7 +72,7 @@ const [selectedBudget, setSelectedBudget] = useState('All');
 
 useEffect(() => {
   axios
-    .get(`http://localhost:5000/api/packages?currency=${currency}`)
+    .get(`https://bookfortravel-backend.onrender.com/api/packages`)
     .then((res) => {
       const rawPackages = res.data;
 
