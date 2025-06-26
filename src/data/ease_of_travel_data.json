@@ -1,0 +1,2402 @@
+[
+  {
+    "country": "Thailand",
+    "month": "January",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹18,861 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 92,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Thailand",
+    "month": "February",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹23,296 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 86,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Thailand",
+    "month": "March",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹18,838 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 77,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Thailand",
+    "month": "April",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹22,092 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 76,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Thailand",
+    "month": "May",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹22,457 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 71,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Thailand",
+    "month": "June",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹19,515 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 70,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Thailand",
+    "month": "July",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹22,268 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 69,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Thailand",
+    "month": "August",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹25,786 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 68,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Thailand",
+    "month": "September",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹21,796 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 86,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Thailand",
+    "month": "October",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹18,044 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 87,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Thailand",
+    "month": "November",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹22,897 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 91,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Thailand",
+    "month": "December",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹19,959 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 92,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Vietnam",
+    "month": "January",
+    "visa": "E-Visa (Avg time: 7 days, Medium)",
+    "flightCost": "₹25,451 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 85,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Vietnam",
+    "month": "February",
+    "visa": "E-Visa (Avg time: 7 days, Medium)",
+    "flightCost": "₹27,228 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 80,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Vietnam",
+    "month": "March",
+    "visa": "E-Visa (Avg time: 7 days, Medium)",
+    "flightCost": "₹26,041 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 70,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Vietnam",
+    "month": "April",
+    "visa": "E-Visa (Avg time: 7 days, Medium)",
+    "flightCost": "₹30,564 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 69,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Vietnam",
+    "month": "May",
+    "visa": "E-Visa (Avg time: 7 days, Medium)",
+    "flightCost": "₹29,261 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 65,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Vietnam",
+    "month": "June",
+    "visa": "E-Visa (Avg time: 7 days, Medium)",
+    "flightCost": "₹31,119 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 62,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Vietnam",
+    "month": "July",
+    "visa": "E-Visa (Avg time: 7 days, Medium)",
+    "flightCost": "₹29,189 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 63,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Vietnam",
+    "month": "August",
+    "visa": "E-Visa (Avg time: 7 days, Medium)",
+    "flightCost": "₹29,282 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 63,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Vietnam",
+    "month": "September",
+    "visa": "E-Visa (Avg time: 7 days, Medium)",
+    "flightCost": "₹27,270 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 80,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Vietnam",
+    "month": "October",
+    "visa": "E-Visa (Avg time: 7 days, Medium)",
+    "flightCost": "₹29,660 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 80,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Vietnam",
+    "month": "November",
+    "visa": "E-Visa (Avg time: 7 days, Medium)",
+    "flightCost": "₹25,281 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 85,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Vietnam",
+    "month": "December",
+    "visa": "E-Visa (Avg time: 7 days, Medium)",
+    "flightCost": "₹28,407 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 85,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Bali",
+    "month": "January",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹28,898 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 90,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Bali",
+    "month": "February",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹33,571 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 84,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Bali",
+    "month": "March",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹31,238 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 74,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Bali",
+    "month": "April",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹34,785 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 74,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Bali",
+    "month": "May",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹33,598 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 69,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Bali",
+    "month": "June",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹33,599 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 67,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Bali",
+    "month": "July",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹29,969 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 68,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Bali",
+    "month": "August",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹34,833 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 67,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Bali",
+    "month": "September",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹31,377 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 84,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Bali",
+    "month": "October",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹29,151 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 85,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Bali",
+    "month": "November",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹29,553 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 90,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Bali",
+    "month": "December",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹28,728 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 90,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Dubai",
+    "month": "January",
+    "visa": "E-Visa (Avg time: 4–6 days, Medium)",
+    "flightCost": "₹29,586 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 85,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Dubai",
+    "month": "February",
+    "visa": "E-Visa (Avg time: 4–6 days, Medium)",
+    "flightCost": "₹25,399 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 80,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Dubai",
+    "month": "March",
+    "visa": "E-Visa (Avg time: 4–6 days, Medium)",
+    "flightCost": "₹26,367 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 70,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Dubai",
+    "month": "April",
+    "visa": "E-Visa (Avg time: 4–6 days, Medium)",
+    "flightCost": "₹26,143 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 70,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Dubai",
+    "month": "May",
+    "visa": "E-Visa (Avg time: 4–6 days, Medium)",
+    "flightCost": "₹24,735 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 66,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Dubai",
+    "month": "June",
+    "visa": "E-Visa (Avg time: 4–6 days, Medium)",
+    "flightCost": "₹28,143 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 63,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Dubai",
+    "month": "July",
+    "visa": "E-Visa (Avg time: 4–6 days, Medium)",
+    "flightCost": "₹26,110 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 63,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Dubai",
+    "month": "August",
+    "visa": "E-Visa (Avg time: 4–6 days, Medium)",
+    "flightCost": "₹22,688 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 64,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Dubai",
+    "month": "September",
+    "visa": "E-Visa (Avg time: 4–6 days, Medium)",
+    "flightCost": "₹29,462 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 80,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Dubai",
+    "month": "October",
+    "visa": "E-Visa (Avg time: 4–6 days, Medium)",
+    "flightCost": "₹28,618 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 80,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Dubai",
+    "month": "November",
+    "visa": "E-Visa (Avg time: 4–6 days, Medium)",
+    "flightCost": "₹24,238 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 86,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Dubai",
+    "month": "December",
+    "visa": "E-Visa (Avg time: 4–6 days, Medium)",
+    "flightCost": "₹27,041 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 85,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Singapore",
+    "month": "January",
+    "visa": "E-Visa (Avg time: 3–5 days, Medium)",
+    "flightCost": "₹26,612 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 85,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Singapore",
+    "month": "February",
+    "visa": "E-Visa (Avg time: 3–5 days, Medium)",
+    "flightCost": "₹30,999 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 79,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Singapore",
+    "month": "March",
+    "visa": "E-Visa (Avg time: 3–5 days, Medium)",
+    "flightCost": "₹30,333 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 69,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Singapore",
+    "month": "April",
+    "visa": "E-Visa (Avg time: 3–5 days, Medium)",
+    "flightCost": "₹31,806 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 69,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Singapore",
+    "month": "May",
+    "visa": "E-Visa (Avg time: 3–5 days, Medium)",
+    "flightCost": "₹31,631 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 64,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Singapore",
+    "month": "June",
+    "visa": "E-Visa (Avg time: 3–5 days, Medium)",
+    "flightCost": "₹26,383 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 63,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Singapore",
+    "month": "July",
+    "visa": "E-Visa (Avg time: 3–5 days, Medium)",
+    "flightCost": "₹31,065 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 62,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Singapore",
+    "month": "August",
+    "visa": "E-Visa (Avg time: 3–5 days, Medium)",
+    "flightCost": "₹26,358 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 63,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Singapore",
+    "month": "September",
+    "visa": "E-Visa (Avg time: 3–5 days, Medium)",
+    "flightCost": "₹30,914 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 79,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Singapore",
+    "month": "October",
+    "visa": "E-Visa (Avg time: 3–5 days, Medium)",
+    "flightCost": "₹29,175 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 80,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Singapore",
+    "month": "November",
+    "visa": "E-Visa (Avg time: 3–5 days, Medium)",
+    "flightCost": "₹30,559 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 84,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Singapore",
+    "month": "December",
+    "visa": "E-Visa (Avg time: 3–5 days, Medium)",
+    "flightCost": "₹29,832 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 85,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Malaysia",
+    "month": "January",
+    "visa": "E-Visa (Avg time: 3–4 days, Easy)",
+    "flightCost": "₹25,406 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 85,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Malaysia",
+    "month": "February",
+    "visa": "E-Visa (Avg time: 3–4 days, Easy)",
+    "flightCost": "₹29,154 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 80,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Malaysia",
+    "month": "March",
+    "visa": "E-Visa (Avg time: 3–4 days, Easy)",
+    "flightCost": "₹24,172 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 71,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Malaysia",
+    "month": "April",
+    "visa": "E-Visa (Avg time: 3–4 days, Easy)",
+    "flightCost": "₹30,387 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 69,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Malaysia",
+    "month": "May",
+    "visa": "E-Visa (Avg time: 3–4 days, Easy)",
+    "flightCost": "₹27,393 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 65,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Malaysia",
+    "month": "June",
+    "visa": "E-Visa (Avg time: 3–4 days, Easy)",
+    "flightCost": "₹24,534 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 64,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Malaysia",
+    "month": "July",
+    "visa": "E-Visa (Avg time: 3–4 days, Easy)",
+    "flightCost": "₹25,275 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 63,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Malaysia",
+    "month": "August",
+    "visa": "E-Visa (Avg time: 3–4 days, Easy)",
+    "flightCost": "₹30,315 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 62,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Malaysia",
+    "month": "September",
+    "visa": "E-Visa (Avg time: 3–4 days, Easy)",
+    "flightCost": "₹29,820 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 80,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Malaysia",
+    "month": "October",
+    "visa": "E-Visa (Avg time: 3–4 days, Easy)",
+    "flightCost": "₹28,167 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 80,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Malaysia",
+    "month": "November",
+    "visa": "E-Visa (Avg time: 3–4 days, Easy)",
+    "flightCost": "₹27,483 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 85,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Malaysia",
+    "month": "December",
+    "visa": "E-Visa (Avg time: 3–4 days, Easy)",
+    "flightCost": "₹30,416 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 84,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Sri Lanka",
+    "month": "January",
+    "visa": "E-Visa (Avg time: 2–3 days, Easy)",
+    "flightCost": "₹17,686 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 87,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Sri Lanka",
+    "month": "February",
+    "visa": "E-Visa (Avg time: 2–3 days, Easy)",
+    "flightCost": "₹18,641 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 82,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Sri Lanka",
+    "month": "March",
+    "visa": "E-Visa (Avg time: 2–3 days, Easy)",
+    "flightCost": "₹17,995 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 72,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Sri Lanka",
+    "month": "April",
+    "visa": "E-Visa (Avg time: 2–3 days, Easy)",
+    "flightCost": "₹15,676 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 72,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Sri Lanka",
+    "month": "May",
+    "visa": "E-Visa (Avg time: 2–3 days, Easy)",
+    "flightCost": "₹19,560 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 67,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Sri Lanka",
+    "month": "June",
+    "visa": "E-Visa (Avg time: 2–3 days, Easy)",
+    "flightCost": "₹19,710 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 65,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Sri Lanka",
+    "month": "July",
+    "visa": "E-Visa (Avg time: 2–3 days, Easy)",
+    "flightCost": "₹15,704 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 65,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Sri Lanka",
+    "month": "August",
+    "visa": "E-Visa (Avg time: 2–3 days, Easy)",
+    "flightCost": "₹15,265 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 65,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Sri Lanka",
+    "month": "September",
+    "visa": "E-Visa (Avg time: 2–3 days, Easy)",
+    "flightCost": "₹19,086 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 82,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Sri Lanka",
+    "month": "October",
+    "visa": "E-Visa (Avg time: 2–3 days, Easy)",
+    "flightCost": "₹17,956 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 82,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Sri Lanka",
+    "month": "November",
+    "visa": "E-Visa (Avg time: 2–3 days, Easy)",
+    "flightCost": "₹15,008 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 87,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Sri Lanka",
+    "month": "December",
+    "visa": "E-Visa (Avg time: 2–3 days, Easy)",
+    "flightCost": "₹19,530 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 87,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Bhutan",
+    "month": "January",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹10,299 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 98,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Bhutan",
+    "month": "February",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹13,492 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 93,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Bhutan",
+    "month": "March",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹14,015 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 83,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Bhutan",
+    "month": "April",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹14,192 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 83,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Bhutan",
+    "month": "May",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹11,271 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 78,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Bhutan",
+    "month": "June",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹12,689 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 76,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Bhutan",
+    "month": "July",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹11,403 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 76,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Bhutan",
+    "month": "August",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹10,585 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 76,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Bhutan",
+    "month": "September",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹14,637 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 93,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Bhutan",
+    "month": "October",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹13,270 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 93,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Bhutan",
+    "month": "November",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹13,195 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 98,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Bhutan",
+    "month": "December",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹14,020 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 98,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Japan",
+    "month": "January",
+    "visa": "Embassy Visa (Avg time: 7–10 days, Needs Effort)",
+    "flightCost": "₹42,021 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 72,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Japan",
+    "month": "February",
+    "visa": "Embassy Visa (Avg time: 7–10 days, Needs Effort)",
+    "flightCost": "₹53,203 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 65,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Japan",
+    "month": "March",
+    "visa": "Embassy Visa (Avg time: 7–10 days, Needs Effort)",
+    "flightCost": "₹40,015 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 57,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Japan",
+    "month": "April",
+    "visa": "Embassy Visa (Avg time: 7–10 days, Needs Effort)",
+    "flightCost": "₹45,847 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 56,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Japan",
+    "month": "May",
+    "visa": "Embassy Visa (Avg time: 7–10 days, Needs Effort)",
+    "flightCost": "₹54,617 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 50,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Japan",
+    "month": "June",
+    "visa": "Embassy Visa (Avg time: 7–10 days, Needs Effort)",
+    "flightCost": "₹41,325 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 50,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Japan",
+    "month": "July",
+    "visa": "Embassy Visa (Avg time: 7–10 days, Needs Effort)",
+    "flightCost": "₹47,530 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 49,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Japan",
+    "month": "August",
+    "visa": "Embassy Visa (Avg time: 7–10 days, Needs Effort)",
+    "flightCost": "₹53,939 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 48,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Japan",
+    "month": "September",
+    "visa": "Embassy Visa (Avg time: 7–10 days, Needs Effort)",
+    "flightCost": "₹52,224 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 65,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Japan",
+    "month": "October",
+    "visa": "Embassy Visa (Avg time: 7–10 days, Needs Effort)",
+    "flightCost": "₹43,322 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 67,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Japan",
+    "month": "November",
+    "visa": "Embassy Visa (Avg time: 7–10 days, Needs Effort)",
+    "flightCost": "₹49,247 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 71,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Japan",
+    "month": "December",
+    "visa": "Embassy Visa (Avg time: 7–10 days, Needs Effort)",
+    "flightCost": "₹54,201 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 70,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "South Korea",
+    "month": "January",
+    "visa": "Embassy Visa (Avg time: 8–10 days, Needs Effort)",
+    "flightCost": "₹43,614 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 72,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "South Korea",
+    "month": "February",
+    "visa": "Embassy Visa (Avg time: 8–10 days, Needs Effort)",
+    "flightCost": "₹52,027 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 65,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "South Korea",
+    "month": "March",
+    "visa": "Embassy Visa (Avg time: 8–10 days, Needs Effort)",
+    "flightCost": "₹56,490 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 54,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "South Korea",
+    "month": "April",
+    "visa": "Embassy Visa (Avg time: 8–10 days, Needs Effort)",
+    "flightCost": "₹59,658 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 54,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "South Korea",
+    "month": "May",
+    "visa": "Embassy Visa (Avg time: 8–10 days, Needs Effort)",
+    "flightCost": "₹45,179 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 51,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "South Korea",
+    "month": "June",
+    "visa": "Embassy Visa (Avg time: 8–10 days, Needs Effort)",
+    "flightCost": "₹56,924 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 47,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "South Korea",
+    "month": "July",
+    "visa": "Embassy Visa (Avg time: 8–10 days, Needs Effort)",
+    "flightCost": "₹54,272 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 48,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "South Korea",
+    "month": "August",
+    "visa": "Embassy Visa (Avg time: 8–10 days, Needs Effort)",
+    "flightCost": "₹48,860 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 49,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "South Korea",
+    "month": "September",
+    "visa": "Embassy Visa (Avg time: 8–10 days, Needs Effort)",
+    "flightCost": "₹43,204 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 67,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "South Korea",
+    "month": "October",
+    "visa": "Embassy Visa (Avg time: 8–10 days, Needs Effort)",
+    "flightCost": "₹46,387 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 66,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "South Korea",
+    "month": "November",
+    "visa": "Embassy Visa (Avg time: 8–10 days, Needs Effort)",
+    "flightCost": "₹55,627 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 69,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "South Korea",
+    "month": "December",
+    "visa": "Embassy Visa (Avg time: 8–10 days, Needs Effort)",
+    "flightCost": "₹51,006 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 70,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Turkey",
+    "month": "January",
+    "visa": "E-Visa (Avg time: 5–7 days, Medium)",
+    "flightCost": "₹42,053 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 82,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Turkey",
+    "month": "February",
+    "visa": "E-Visa (Avg time: 5–7 days, Medium)",
+    "flightCost": "₹40,882 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 77,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Turkey",
+    "month": "March",
+    "visa": "E-Visa (Avg time: 5–7 days, Medium)",
+    "flightCost": "₹47,867 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 66,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Turkey",
+    "month": "April",
+    "visa": "E-Visa (Avg time: 5–7 days, Medium)",
+    "flightCost": "₹45,419 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 66,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Turkey",
+    "month": "May",
+    "visa": "E-Visa (Avg time: 5–7 days, Medium)",
+    "flightCost": "₹41,003 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 62,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Turkey",
+    "month": "June",
+    "visa": "E-Visa (Avg time: 5–7 days, Medium)",
+    "flightCost": "₹42,256 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 60,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Turkey",
+    "month": "July",
+    "visa": "E-Visa (Avg time: 5–7 days, Medium)",
+    "flightCost": "₹48,605 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 59,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Turkey",
+    "month": "August",
+    "visa": "E-Visa (Avg time: 5–7 days, Medium)",
+    "flightCost": "₹46,819 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 59,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Turkey",
+    "month": "September",
+    "visa": "E-Visa (Avg time: 5–7 days, Medium)",
+    "flightCost": "₹47,014 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 76,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Turkey",
+    "month": "October",
+    "visa": "E-Visa (Avg time: 5–7 days, Medium)",
+    "flightCost": "₹42,718 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 77,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Turkey",
+    "month": "November",
+    "visa": "E-Visa (Avg time: 5–7 days, Medium)",
+    "flightCost": "₹45,560 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 81,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Turkey",
+    "month": "December",
+    "visa": "E-Visa (Avg time: 5–7 days, Medium)",
+    "flightCost": "₹45,238 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 81,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Maldives",
+    "month": "January",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹26,445 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 90,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Maldives",
+    "month": "February",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹21,401 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 86,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Maldives",
+    "month": "March",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹24,664 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 76,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Maldives",
+    "month": "April",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹27,238 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 75,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Maldives",
+    "month": "May",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹23,366 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 71,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Maldives",
+    "month": "June",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹27,675 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 68,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Maldives",
+    "month": "July",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹21,143 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 69,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Maldives",
+    "month": "August",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹24,100 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 69,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Maldives",
+    "month": "September",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹26,733 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 85,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Maldives",
+    "month": "October",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹20,066 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 86,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Maldives",
+    "month": "November",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹20,546 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 91,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Maldives",
+    "month": "December",
+    "visa": "Visa on Arrival (Avg time: 0–2 days, Easy)",
+    "flightCost": "₹25,553 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 90,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Indonesia",
+    "month": "January",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 2–4 days, Easy)",
+    "flightCost": "₹29,550 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 90,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Indonesia",
+    "month": "February",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 2–4 days, Easy)",
+    "flightCost": "₹29,586 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 85,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Indonesia",
+    "month": "March",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 2–4 days, Easy)",
+    "flightCost": "₹26,449 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 75,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Indonesia",
+    "month": "April",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 2–4 days, Easy)",
+    "flightCost": "₹26,493 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 75,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Indonesia",
+    "month": "May",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 2–4 days, Easy)",
+    "flightCost": "₹26,278 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 70,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Indonesia",
+    "month": "June",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 2–4 days, Easy)",
+    "flightCost": "₹33,156 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 67,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Indonesia",
+    "month": "July",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 2–4 days, Easy)",
+    "flightCost": "₹31,635 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 67,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Indonesia",
+    "month": "August",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 2–4 days, Easy)",
+    "flightCost": "₹32,114 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 67,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Indonesia",
+    "month": "September",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 2–4 days, Easy)",
+    "flightCost": "₹33,076 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 84,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Indonesia",
+    "month": "October",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 2–4 days, Easy)",
+    "flightCost": "₹31,728 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 84,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Indonesia",
+    "month": "November",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 2–4 days, Easy)",
+    "flightCost": "₹30,024 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 89,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Indonesia",
+    "month": "December",
+    "visa": "Visa on Arrival / E-Visa (Avg time: 2–4 days, Easy)",
+    "flightCost": "₹31,007 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 89,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Nepal",
+    "month": "January",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹12,238 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 98,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Nepal",
+    "month": "February",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹9,053 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 94,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Nepal",
+    "month": "March",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹13,516 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 83,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Nepal",
+    "month": "April",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹11,450 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 83,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Nepal",
+    "month": "May",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹11,949 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 78,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Nepal",
+    "month": "June",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹10,809 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 76,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Nepal",
+    "month": "July",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹13,973 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 76,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Nepal",
+    "month": "August",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹10,162 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 76,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Nepal",
+    "month": "September",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹9,068 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 94,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Nepal",
+    "month": "October",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹11,761 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 93,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Nepal",
+    "month": "November",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹10,565 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 98,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Nepal",
+    "month": "December",
+    "visa": "No Visa Required (for Indians)",
+    "flightCost": "₹9,604 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 99,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Europe",
+    "month": "January",
+    "visa": "Schengen Visa (Avg time: 10–15 days, Needs Effort)",
+    "flightCost": "₹69,710 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 67,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Europe",
+    "month": "February",
+    "visa": "Schengen Visa (Avg time: 10–15 days, Needs Effort)",
+    "flightCost": "₹64,509 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 63,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Europe",
+    "month": "March",
+    "visa": "Schengen Visa (Avg time: 10–15 days, Needs Effort)",
+    "flightCost": "₹58,909 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 54,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Europe",
+    "month": "April",
+    "visa": "Schengen Visa (Avg time: 10–15 days, Needs Effort)",
+    "flightCost": "₹67,231 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 52,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Europe",
+    "month": "May",
+    "visa": "Schengen Visa (Avg time: 10–15 days, Needs Effort)",
+    "flightCost": "₹64,918 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 48,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Europe",
+    "month": "June",
+    "visa": "Schengen Visa (Avg time: 10–15 days, Needs Effort)",
+    "flightCost": "₹65,857 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 45,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Europe",
+    "month": "July",
+    "visa": "Schengen Visa (Avg time: 10–15 days, Needs Effort)",
+    "flightCost": "₹67,147 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 45,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Europe",
+    "month": "August",
+    "visa": "Schengen Visa (Avg time: 10–15 days, Needs Effort)",
+    "flightCost": "₹58,183 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 47,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Europe",
+    "month": "September",
+    "visa": "Schengen Visa (Avg time: 10–15 days, Needs Effort)",
+    "flightCost": "₹54,117 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 65,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Europe",
+    "month": "October",
+    "visa": "Schengen Visa (Avg time: 10–15 days, Needs Effort)",
+    "flightCost": "₹60,658 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 63,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Europe",
+    "month": "November",
+    "visa": "Schengen Visa (Avg time: 10–15 days, Needs Effort)",
+    "flightCost": "₹51,607 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 70,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Europe",
+    "month": "December",
+    "visa": "Schengen Visa (Avg time: 10–15 days, Needs Effort)",
+    "flightCost": "₹52,515 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 70,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "USA",
+    "month": "January",
+    "visa": "Embassy Visa (Avg time: 20–30 days, Needs Effort)",
+    "flightCost": "₹92,257 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 62,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "USA",
+    "month": "February",
+    "visa": "Embassy Visa (Avg time: 20–30 days, Needs Effort)",
+    "flightCost": "₹93,758 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 57,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "USA",
+    "month": "March",
+    "visa": "Embassy Visa (Avg time: 20–30 days, Needs Effort)",
+    "flightCost": "₹99,725 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 46,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "USA",
+    "month": "April",
+    "visa": "Embassy Visa (Avg time: 20–30 days, Needs Effort)",
+    "flightCost": "₹82,998 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 49,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "USA",
+    "month": "May",
+    "visa": "Embassy Visa (Avg time: 20–30 days, Needs Effort)",
+    "flightCost": "₹88,397 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 43,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "USA",
+    "month": "June",
+    "visa": "Embassy Visa (Avg time: 20–30 days, Needs Effort)",
+    "flightCost": "₹87,502 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 41,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "USA",
+    "month": "July",
+    "visa": "Embassy Visa (Avg time: 20–30 days, Needs Effort)",
+    "flightCost": "₹99,530 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 39,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "USA",
+    "month": "August",
+    "visa": "Embassy Visa (Avg time: 20–30 days, Needs Effort)",
+    "flightCost": "₹92,214 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 40,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "USA",
+    "month": "September",
+    "visa": "Embassy Visa (Avg time: 20–30 days, Needs Effort)",
+    "flightCost": "₹77,611 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 60,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "USA",
+    "month": "October",
+    "visa": "Embassy Visa (Avg time: 20–30 days, Needs Effort)",
+    "flightCost": "₹82,662 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 59,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "USA",
+    "month": "November",
+    "visa": "Embassy Visa (Avg time: 20–30 days, Needs Effort)",
+    "flightCost": "₹92,471 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 62,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "USA",
+    "month": "December",
+    "visa": "Embassy Visa (Avg time: 20–30 days, Needs Effort)",
+    "flightCost": "₹84,785 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 64,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "UK",
+    "month": "January",
+    "visa": "Embassy Visa (Avg time: 15–20 days, Needs Effort)",
+    "flightCost": "₹83,751 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 64,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "UK",
+    "month": "February",
+    "visa": "Embassy Visa (Avg time: 15–20 days, Needs Effort)",
+    "flightCost": "₹83,381 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 59,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "UK",
+    "month": "March",
+    "visa": "Embassy Visa (Avg time: 15–20 days, Needs Effort)",
+    "flightCost": "₹75,972 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 50,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "UK",
+    "month": "April",
+    "visa": "Embassy Visa (Avg time: 15–20 days, Needs Effort)",
+    "flightCost": "₹76,689 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 50,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "UK",
+    "month": "May",
+    "visa": "Embassy Visa (Avg time: 15–20 days, Needs Effort)",
+    "flightCost": "₹84,571 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 44,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "UK",
+    "month": "June",
+    "visa": "Embassy Visa (Avg time: 15–20 days, Needs Effort)",
+    "flightCost": "₹66,476 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 45,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "UK",
+    "month": "July",
+    "visa": "Embassy Visa (Avg time: 15–20 days, Needs Effort)",
+    "flightCost": "₹73,957 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 44,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "UK",
+    "month": "August",
+    "visa": "Embassy Visa (Avg time: 15–20 days, Needs Effort)",
+    "flightCost": "₹81,698 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 42,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "UK",
+    "month": "September",
+    "visa": "Embassy Visa (Avg time: 15–20 days, Needs Effort)",
+    "flightCost": "₹73,021 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 61,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "UK",
+    "month": "October",
+    "visa": "Embassy Visa (Avg time: 15–20 days, Needs Effort)",
+    "flightCost": "₹77,299 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 60,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "UK",
+    "month": "November",
+    "visa": "Embassy Visa (Avg time: 15–20 days, Needs Effort)",
+    "flightCost": "₹71,953 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 66,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "UK",
+    "month": "December",
+    "visa": "Embassy Visa (Avg time: 15–20 days, Needs Effort)",
+    "flightCost": "₹60,606 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 68,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Australia",
+    "month": "January",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹70,627 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 76,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Australia",
+    "month": "February",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹74,558 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 71,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Australia",
+    "month": "March",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹71,214 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 61,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Australia",
+    "month": "April",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹76,783 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 60,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Australia",
+    "month": "May",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹76,134 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 55,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Australia",
+    "month": "June",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹56,263 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 57,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Australia",
+    "month": "July",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹67,614 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 55,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Australia",
+    "month": "August",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹63,312 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 56,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Australia",
+    "month": "September",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹77,486 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 70,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Australia",
+    "month": "October",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹58,279 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 74,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Australia",
+    "month": "November",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹77,135 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 75,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Australia",
+    "month": "December",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹75,546 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 75,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "New Zealand",
+    "month": "January",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹76,603 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 75,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "New Zealand",
+    "month": "February",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹84,224 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 69,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "New Zealand",
+    "month": "March",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹70,573 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 61,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "New Zealand",
+    "month": "April",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹66,285 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 62,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "New Zealand",
+    "month": "May",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹64,017 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 58,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "New Zealand",
+    "month": "June",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹69,936 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 55,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "New Zealand",
+    "month": "July",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹69,961 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 55,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "New Zealand",
+    "month": "August",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹65,676 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 55,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "New Zealand",
+    "month": "September",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹79,484 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 70,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "New Zealand",
+    "month": "October",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹63,941 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 73,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "New Zealand",
+    "month": "November",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹78,253 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 75,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "New Zealand",
+    "month": "December",
+    "visa": "E-Visa (Avg time: 10–15 days, Medium)",
+    "flightCost": "₹74,927 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 76,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Kenya",
+    "month": "January",
+    "visa": "E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹42,534 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 82,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Kenya",
+    "month": "February",
+    "visa": "E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹38,193 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 78,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Kenya",
+    "month": "March",
+    "visa": "E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹40,744 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 67,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Kenya",
+    "month": "April",
+    "visa": "E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹37,661 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Hot",
+    "totalScore": 68,
+    "suggestedMonth": "December"
+  },
+  {
+    "country": "Kenya",
+    "month": "May",
+    "visa": "E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹42,293 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Very Hot",
+    "totalScore": 62,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Kenya",
+    "month": "June",
+    "visa": "E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹41,661 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 60,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Kenya",
+    "month": "July",
+    "visa": "E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹40,579 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 60,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Kenya",
+    "month": "August",
+    "visa": "E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹37,043 (return)",
+    "season": "Off Season Season (Peaceful)",
+    "weather": "Rainy",
+    "totalScore": 61,
+    "suggestedMonth": "February"
+  },
+  {
+    "country": "Kenya",
+    "month": "September",
+    "visa": "E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹35,947 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 78,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Kenya",
+    "month": "October",
+    "visa": "E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹39,382 (return)",
+    "season": "Shoulder Season Season (Moderate)",
+    "weather": "Pleasant",
+    "totalScore": 78,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Kenya",
+    "month": "November",
+    "visa": "E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹44,836 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 82,
+    "suggestedMonth": "April"
+  },
+  {
+    "country": "Kenya",
+    "month": "December",
+    "visa": "E-Visa (Avg time: 3–5 days, Easy)",
+    "flightCost": "₹37,974 (return)",
+    "season": "Peak Season Season (High Footfall)",
+    "weather": "Pleasant",
+    "totalScore": 83,
+    "suggestedMonth": "April"
+  }
+]
