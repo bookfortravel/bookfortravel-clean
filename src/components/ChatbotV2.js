@@ -132,7 +132,7 @@ The reply must begin with:
 Make the tone crisp, engaging, and useful for decision-making.`;
 
     try {
-      const response = await axios.post("https://bookfortravel-backend.onrender.com/api/itinerary-chat/generate-itinerary", {
+      const response = await axios.post("https://bookfortravel-backend.onrender.com/api/itinerary-chat", {
   prompt,
   tripType,
   locationType,
@@ -141,6 +141,7 @@ Make the tone crisp, engaging, and useful for decision-making.`;
   budgetAmount,
   currency
 });
+
 
       setItinerary(response.data.itinerary);
       setStep(6);
