@@ -440,7 +440,7 @@ const renderInclusionsExclusions = () => (
 return(
 <>
   {/* ✅ HERO CAROUSEL SECTION – Georgia Wonders */}
-  <div className="w-full relative">
+ <div className="w-full relative z-0 pt-12">
     <Swiper
       spaceBetween={30}
       centeredSlides={true}
@@ -468,7 +468,7 @@ return(
     </Swiper>
 
     {/* ✅ OVERLAY CONTENT – Georgia */}
-    <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 z-50 bg-black bg-opacity-20 p-4 rounded-lg shadow-xl max-w-[550px] text-white text-center w-[90%]">
+    <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 z-10 bg-black bg-opacity-20 p-4 rounded-lg shadow-xl max-w-[550px] text-white text-center w-[90%]">
       <h1 className="text-[30px] md:text-[36px] font-bold mb-2">
         Georgia Wonders: Mountains, Wine & Culture
       </h1>
