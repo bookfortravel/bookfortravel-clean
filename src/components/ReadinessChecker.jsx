@@ -232,32 +232,39 @@ const ReadinessChecker = () => {
         <strong>Wondering if it's the right time to travel? Let’s find out.</strong>
       </p>
 
-      {/* Destination Dropdown */}
-      <div className="relative mb-2">
-        <select
-          className="w-full bg-white border border-gray-300 rounded-xl py-2 px-3 text-sm text-purple-600 font-medium"
-          value={destination}
-          onChange={(e) => setDestination(e.target.value)}
-        >
-          <option value="" disabled>
-            Choose{' '}
-            <Typewriter
-              words={['Destination', ...destinationsList]}
-              loop
-              cursor
-              cursorStyle="|"
-              typeSpeed={60}
-              deleteSpeed={40}
-              delaySpeed={1200}
-            />
-          </option>
-          {destinationsList.map((dest) => (
-            <option key={dest} value={dest}>
-              {dest}
-            </option>
-          ))}
-        </select>
-      </div>
+{/* Destination Dropdown */}
+<div className="relative mb-2">
+  <select
+    className="w-full bg-white border border-gray-300 rounded-xl py-2 px-3 text-sm text-purple-600 font-medium"
+    value={destination}
+    onChange={(e) => setDestination(e.target.value)}
+  >
+    {/* 👇 This only shows when nothing is selected — NOT in dropdown */}
+    {destination === '' && (
+      <option value="" disabled hidden>
+        Choose{' '}
+        {/* ✅ Typewriter effect visible here */}
+        {` `}<Typewriter
+          words={['Destination', ...destinationsList]}
+          loop
+          cursor
+          cursorStyle="|"
+          typeSpeed={60}
+          deleteSpeed={40}
+          delaySpeed={1200}
+        />
+      </option>
+    )}
+
+    {/* ✅ Actual destinations in dropdown */}
+    {destinationsList.map((dest) => (
+      <option key={dest} value={dest}>
+        {dest}
+      </option>
+    ))}
+  </select>
+</div>
+
 
       {/* Month Dropdown */}
       <div className="relative mb-3">
