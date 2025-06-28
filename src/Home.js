@@ -307,7 +307,7 @@ const filteredPackages = packages.filter((pkg) => {
 
 {/* ✅ MOBILE PACKAGE TILES – Portrait with Scroll Hint */}
 <div className="relative md:hidden pb-10 px-0">
-  <div className="flex space-x-4 overflow-x-auto snap-x snap-mandatory scroll-smooth scrollbar-hide">
+  <div className="flex space-x-4 overflow-x-auto snap-x snap-mandatory scroll-smooth scrollbar-hide -ml-4 pr-4">
 
     {filteredPackages.map(pkg => (
       <div
