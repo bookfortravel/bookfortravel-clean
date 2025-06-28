@@ -12,7 +12,7 @@ const WhyBookForTravelHero = () => {
     <div className="max-w-[1300px] mx-auto px-2 py-20 pt-16 pb-6">
 	
       {/* ✅ Section Heading */}
-      <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-10 text-center flex items-center justify-center gap-0 px-12">
+      <h2 className="text-4xl md:text-4xl font-bold text-gray-800 mb-12 text-center flex items-center justify-center gap-0 px-2 py-0">
         Why Travellers Love Us ?       </h2>
 
       {/* ✅ Desktop Layout */}
@@ -67,9 +67,9 @@ const WhyBookForTravelHero = () => {
       </div>
 
 {/* ✅ Final Mobile Layout – Bigger Girl, Tight Spacing */}
-<div className="md:hidden bg-gray-100 shadow-md border border-gray-200 rounded-xl p-4 hover:shadow-lg flex flex-row items-start justify-start px-2 pt-4 pb-2 -mt-1 mb-8">
+<div className="md:hidden bg-gray-100 shadow-md border border-gray-200 rounded-xl p-20 hover:shadow-lg flex flex-row items-start justify-start px-0 pt-4 pb-4 -mt-2 ml-0">
   {/* Girl – Bigger, tighter */}
-  <div className="w-[44%] flex justify-start items-start pt-1.5">
+  <div className="w-[50%] flex justify-start items-start pt-1.5 space-y-6 -ml-6">
     <img
       src="https://res.cloudinary.com/drvigtwgm/image/upload/v1750399677/Adobe_Express_-_file_mj1mcp.png"
       alt="AI Host"
@@ -78,7 +78,7 @@ const WhyBookForTravelHero = () => {
   </div>
 
   {/* Text Points – tighter spacing */}
-  <div className="w-[56%] flex flex-col justify-start space-y-4 -ml-4">
+  <div className="w-[65%] flex flex-col justify-start space-y-4 -ml-8">
     <div className="flex items-start gap-3">
       <FaMapMarkedAlt className="text-pink-600 text-4xl mt-1" />
       <p className="text-[15px] text-gray-800 font-medium leading-snug text-left">
