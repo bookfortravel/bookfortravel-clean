@@ -403,7 +403,7 @@ const renderInclusionsExclusions = () => (
 return (
   <>
     {/* ✅ HERO CAROUSEL SECTION – GOA TOUR */}
-    <div className="w-full relative">
+   <div className="w-full relative z-0 pt-12">
       <Swiper
         spaceBetween={30}
         centeredSlides={true}
@@ -431,7 +431,7 @@ return (
       </Swiper>
 
       {/* ✅ OVERLAY CONTENT */}
-      <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 z-50 bg-black bg-opacity-20 p-4 rounded-lg shadow-xl max-w-[550px] text-white text-center w-[90%]">
+      <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 z-10 bg-black bg-opacity-20 p-4 rounded-lg shadow-xl max-w-[550px] text-white text-center w-[90%]">
         <h1 className="text-[30px] md:text-[36px] font-bold mb-2">Goa Vibes: Beaches, Shacks & Parties</h1>
         <p className="text-[16px] md:text-[18px] mb-2">
           4 Days of sun, sand, forts, waterfalls & vibrant nights — an unforgettable tropical escape.
