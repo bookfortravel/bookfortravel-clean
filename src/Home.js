@@ -271,14 +271,14 @@ const filteredPackages = packages.filter((pkg) => {
 )}
 
 {/* ✅ MOBILE DROPDOWNS FOR FILTERS */}
-<div className="md:hidden px-4 py-3 flex gap-4 mb-0">
+<div className="md:hidden px-0 py-3 flex gap-4 mb-0">
   {/* Theme Dropdown */}
   <div className="flex-1">
     <label className="block text-sm font-medium text-gray-700 mb-1">Theme</label>
     <select
       value={selectedTheme}
       onChange={(e) => setSelectedTheme(e.target.value)}
-      className="w-full border border-gray-300 rounded-lg py-2 px-3 text-sm bg-white shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+      className="w-70 border border-gray-300 rounded-lg py-2 px-3 text-sm bg-white shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
     >
       {['All', 'Beaches', 'Mountains', 'Nature & Culture', 'City Escape'].map((theme) => (
         <option key={theme} value={theme}>
@@ -294,7 +294,7 @@ const filteredPackages = packages.filter((pkg) => {
     <select
       value={selectedBudget}
       onChange={(e) => setSelectedBudget(e.target.value)}
-      className="w-full border border-gray-300 rounded-lg py-2 px-3 text-sm bg-white shadow-sm focus:outline-none focus:ring-2 focus:ring-green-500"
+      className="w-75 border border-gray-300 rounded-lg py-2 px-3 text-sm bg-white shadow-sm focus:outline-none focus:ring-2 focus:ring-green-500"
     >
       {['All', 'Under ₹50K', '₹50K–₹80K', '₹80K+'].map((budget) => (
         <option key={budget} value={budget}>
