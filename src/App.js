@@ -377,7 +377,7 @@ return (
   <>
     <HeroBanner heroRef={heroRef} />
     <RatingsStrip />
-    <WhyCustomersLove />
+    
     <Home currency={currency} blogRef={blogRef} />  {/* ✅ Pass both props here */}
   </>
 } />
