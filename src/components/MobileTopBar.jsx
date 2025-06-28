@@ -4,6 +4,7 @@ import { Typewriter } from 'react-simple-typewriter';
 import logo from '../assets/booklogo.jpg';
 import { signInWithPopup, signOut, onAuthStateChanged } from "firebase/auth";
 import { auth, provider } from "../firebase";
+import { FiSearch } from "react-icons/fi"; // Feather Search Icon
 
 const destinations = [
   { label: "Vietnam", route: "/vietnam-luxury-escape" },
