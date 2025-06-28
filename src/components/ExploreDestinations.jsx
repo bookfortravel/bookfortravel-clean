@@ -33,8 +33,8 @@ const ExploreDestinations = () => {
   return (
     <div className="max-w-[1300px] mx-auto px-6 py-4">
       <h2 className="text-4xl md:text-4xl font-bold text-center mb-8">
-        Explore Destinations
-      </h2>
+        Explore Destinations <h2 className="text-2xl md:text-2xl font-bold text-center mb-8">(Swipe Left)
+      </h2></h2>
 
       {/* ✅ Desktop View - Carousel with Arrows & Pagination */}
       <div className="hidden md:block relative">
@@ -72,7 +72,7 @@ const ExploreDestinations = () => {
           {destinations.map((dest, index) => (
             <SwiperSlide key={index}>
               <div
-                className="relative h-[500px] rounded-xl overflow-hidden shadow-2xl cursor-pointer"
+                className="relative h-[400px] rounded-xl overflow-hidden shadow-2xl cursor-pointer"
                 onClick={() => { window.scrollTo(0, 0); navigate(dest.path); }}
               >
                 <img src={dest.image} alt={dest.name} className="w-full h-full object-cover" />
