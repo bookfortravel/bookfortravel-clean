@@ -312,7 +312,7 @@ const filteredPackages = packages.filter((pkg) => {
     {filteredPackages.map(pkg => (
       <div
         key={pkg._id}
-        className="min-w-[280px] max-w-[280px] flex-shrink-0 bg-gray-100 rounded-2xl shadow-xl hover:shadow-2xl transition duration-300 overflow-hidden"
+        className="min-w-[280px] max-w-[280px] flex-shrink-0 bg-gray-100 rounded-2xl hover:shadow-sm transition duration-300 overflow-hidden"
       >
       {/* Tile Click */}
       <div onClick={() => handleTileClick(pkg.name)} className="cursor-pointer">
