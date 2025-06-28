@@ -14,6 +14,7 @@ import TravelTipsCarousel from './components/TravelTipsCarousel';
 import FAQSection from './components/FAQSection';
 import { PhoneCall } from "lucide-react";
 import { Helmet } from 'react-helmet';
+import WhyCustomersLove from './components/WhyCustomersLove';
 
 
 
@@ -393,13 +394,19 @@ const filteredPackages = packages.filter((pkg) => {
 
 
 <ReadinessChecker />
+<ExploreDestinations />
+
+
+<WhyCustomersLove />
+
 
 <div id="reviews-section">
   <GuestReviews />
 </div>
 
-<ExploreDestinations />
+
 <HowItWorksSection />
+
 
 <div id="travel-stories-section">
   <TrendingBlogTiles ref={blogRef} />
