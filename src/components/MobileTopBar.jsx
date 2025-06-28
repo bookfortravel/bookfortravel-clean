@@ -113,7 +113,7 @@ const MobileTopBar = ({ blogRef }) => {
       {/* 🔍 Typewriter Search Box */}
       <div ref={dropdownRef} className="flex-1 min-w-0 px-2 relative">
         <div
-          className="w-full h-7 flex items-center justify-between text-sm bg-gray-800 text-white rounded-full px-4 cursor-pointer"
+          className="w-40 h-7 flex items-center justify-between text-sm bg-gray-800 text-white rounded-full px-4 cursor-pointer"
           onClick={() => setShowDropdown(!showDropdown)}
         >
 <span className="flex items-center gap-2">
