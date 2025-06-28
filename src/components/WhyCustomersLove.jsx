@@ -69,7 +69,7 @@ const WhyBookForTravelHero = () => {
 {/* ✅ Final Mobile Layout – Bigger Girl, Tight Spacing */}
 <div className="md:hidden bg-gray-100 shadow-md border border-gray-200 rounded-xl p-20 hover:shadow-lg flex flex-row items-start justify-start px-0 pt-4 pb-4 -mt-2 ml-0">
   {/* Girl – Bigger, tighter */}
-  <div className="w-[50%] flex justify-start items-start pt-1.5 space-y-6 -ml-6">
+  <div className="w-[50%] flex justify-start items-start pt-1.5 space-y-6 -ml-7">
     <img
       src="https://res.cloudinary.com/drvigtwgm/image/upload/v1750399677/Adobe_Express_-_file_mj1mcp.png"
       alt="AI Host"
@@ -78,7 +78,7 @@ const WhyBookForTravelHero = () => {
   </div>
 
   {/* Text Points – tighter spacing */}
-  <div className="w-[65%] flex flex-col justify-start space-y-4 -ml-8">
+  <div className="w-[68%] flex flex-col justify-start space-y-4 -ml-8">
     <div className="flex items-start gap-3">
       <FaMapMarkedAlt className="text-pink-600 text-4xl mt-1" />
       <p className="text-[15px] text-gray-800 font-medium leading-snug text-left">
