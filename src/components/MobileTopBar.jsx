@@ -112,21 +112,31 @@ const MobileTopBar = ({ blogRef }) => {
       {/* 🔍 Typewriter Search Box */}
       <div ref={dropdownRef} className="flex-1 min-w-0 px-2 relative">
         <div
-          className="w-full h-9 flex items-center justify-between text-sm bg-gray-800 text-white rounded-full px-4 cursor-pointer"
+          className="w-full h-7 flex items-center justify-between text-sm bg-gray-800 text-white rounded-full px-4 cursor-pointer"
           onClick={() => setShowDropdown(!showDropdown)}
         >
-          <span className="truncate">
-            Search for{" "}
-            <Typewriter
-              words={["Destination", "Vietnam", "Bali", "Thailand", "Dubai", "Japan", "Europe", "Goa"]}
-              loop={true}
-              cursor
-              cursorStyle="|"
-              typeSpeed={60}
-              deleteSpeed={40}
-              delaySpeed={1500}
-            />
-          </span>
+<span className="flex items-center gap-2">
+  <FiSearch className="text-lg text-white-600" />
+  <span className="truncate">
+    <Typewriter
+      words={["Destination", // Generic fallback
+          "Vietnam", "Bali", "Thailand", "Destination",
+          "Dubai", "Sri Lanka", "Destination",
+          "Singapore", "Japan", "Destination",
+          "Europe", "Goa", "Destination",
+          "Masai Mara", "Azerbaijan", "Destination",
+          "Kazakhstan", "Seychelles", "Destination",
+          "Georgia", "Laos", "Bhutan"
+]}
+      loop={true}
+      cursor
+      cursorStyle="|"
+      typeSpeed={60}
+      deleteSpeed={40}
+      delaySpeed={1500}
+    />
+  </span>
+</span>
           <svg
             className={`w-4 h-4 ml-2 transition-transform duration-200 ${showDropdown ? 'rotate-180' : ''}`}
             fill="none"
