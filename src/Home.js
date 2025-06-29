@@ -15,6 +15,7 @@ import FAQSection from './components/FAQSection';
 import { PhoneCall } from "lucide-react";
 import { Helmet } from 'react-helmet';
 import WhyCustomersLove from './components/WhyCustomersLove';
+import allPackages from './data/all_packages'; // ✅ Your actual path
 
 
 
@@ -72,24 +73,19 @@ const [selectedTheme, setSelectedTheme] = useState('All');
 const [selectedBudget, setSelectedBudget] = useState('All');
 
 useEffect(() => {
-  axios
-    .get(`https://bookfortravel-backend.onrender.com/api/packages`)
-    .then((res) => {
-      const rawPackages = res.data;
+  // 🧠 Simulate API load delay (optional)
+  const timer = setTimeout(() => {
+    const transformedPackages = allPackages.map(pkg => ({
+      ...pkg,
+      id: pkg.id, // Already present in your static file
+      theme: determineTheme(pkg), // 🧠 Reuse your logic
+    }));
 
-      const transformedPackages = rawPackages.map(pkg => ({
-        ...pkg, // 🛑 PRESERVES all original fields: name, price, rating etc.
-        id: pkg._id,
-        theme: determineTheme(pkg),
-      }));
+    setPackages(transformedPackages);
+    setLoading(false);
+  }, 300); // Optional slight delay for smoother UI
 
-      setPackages(transformedPackages);
-      setLoading(false);
-    })
-    .catch((err) => {
-      console.error('Failed to fetch packages:', err);
-      setLoading(false);
-    });
+  return () => clearTimeout(timer); // Cleanup
 }, [currency]);
 
 
