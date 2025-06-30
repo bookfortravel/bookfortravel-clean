@@ -30,7 +30,6 @@ const allPackages = [
         "activities": [
             "Ubud Forest",
             "Tegallalang Rice Terrace",
-            "Beach Clubs",
             "Swing Over Jungle"
         ]
     },
