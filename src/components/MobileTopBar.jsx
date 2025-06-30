@@ -103,7 +103,7 @@ const MobileTopBar = ({ blogRef }) => {
   }, [menuOpen, showDropdown]);
 
   return (
-    <div className="fixed top-0 z-50 w-full bg-black text-white px-3 py-2 flex items-center justify-between sm:hidden">
+    <div className="fixed top-0 z-50 w-full bg-black text-white px-3 py-3 flex items-center justify-between sm:hidden">
 
       {/* Logo */}
       <Link to="/" onClick={scrollToTop} className="flex-shrink-0">
