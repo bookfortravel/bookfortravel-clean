@@ -118,7 +118,8 @@ const scrollToBlogs = () => {
 "Laos & Cambodia Heritage Unforgettable Trail": "/laos-cambodia-trail",
 "Bhutan Serenity Escape: Monasteries & Mountains": "/bhutan-serenity-escape",
 "Danang & Phu Quoc Group Escape": "/danang-phuquoc",
-"Vietnam- The North & Central Paradise": "/vietnam-north-central", // if this is the exact tile title
+"Vietnam — The North & Central Paradise": "/hanoi-sapa-danang", // if this is the exact tile title
+
 "Vietnam Hanoi & Danang Group Escape": "/vietnam-hanoi-danang",
 "Thailand Island Getaway": "/thailand-luxury-escape",
 "Thailand Island Group Getaway": "/thailand-group-getaway",
