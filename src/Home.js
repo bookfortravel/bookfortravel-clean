@@ -16,6 +16,7 @@ import { PhoneCall } from "lucide-react";
 import { Helmet } from 'react-helmet';
 import WhyCustomersLove from './components/WhyCustomersLove';
 import allPackages from './data/all_packages'; // ✅ Your actual path
+import TrendingPackages from './components/TrendingPackages';
 
 
 
@@ -55,6 +56,8 @@ const [showAll, setShowAll] = useState(false);
   const navigate = useNavigate();
 
 const location = useLocation();
+
+  const [selectedUpcomingPackage, setSelectedUpcomingPackage] = useState(null);
 
 useEffect(() => {
   const hash = window.location.hash.replace("#", "");
@@ -114,6 +117,11 @@ const scrollToBlogs = () => {
 "Georgia Wonders: Mountains, Wine & Culture": "/georgia-wonders",
 "Laos & Cambodia Heritage Unforgettable Trail": "/laos-cambodia-trail",
 "Bhutan Serenity Escape: Monasteries & Mountains": "/bhutan-serenity-escape",
+"Danang & Phu Quoc Group Escape": "/danang-phuquoc",
+"Vietnam- The North & Central Paradise": "/vietnam-north-central", // if this is the exact tile title
+"Vietnam Hanoi & Danang Group Escape": "/vietnam-hanoi-danang",
+"Thailand Island Getaway": "/thailand-luxury-escape",
+"Thailand Island Group Getaway": "/thailand-group-getaway",
 
 
     };
@@ -154,6 +162,18 @@ const filteredPackages = packages.filter((pkg) => {
 
  <div className="pb-[60px]">
       <div className="max-w-[1300px] mx-auto px-8 py-6">
+
+
+ <TrendingPackages
+    onRequestCallback={(pkg) => {
+      setSelectedUpcomingPackage(pkg);
+      setShowModal(true);
+    }}
+    onTileClick={(pkg) => {
+      handleTileClick(pkg.name);
+    }}
+  />
+  {/* ------------------------------------------------------------------ */}
         <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-6 text-center flex items-center justify-center gap-4">
 
            Explore Travel Packages
