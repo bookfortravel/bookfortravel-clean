@@ -31,6 +31,12 @@ import SeychellesDreamEscape from './components/SeychellesDreamEscape';
 import GeorgiaWonders from './components/GeorgiaWonders';
 import LaosCambodiaTrail from "./components/LaosCambodiaTrail";
 import BhutanSerenityEscape from './components/BhutanSerenityEscape';
+import VietnamHanoiDanang from './components/VietnamHanoiDanang';
+import DanangPhuquoc from './components/DanangPhuquoc';
+import Hanoisapadanang from './components/hanoisapadanang';
+import ThailandGroupGetaway from './components/ThailandGroupGetaway';
+
+
 import Footer from './components/Footer';
 
 import RatingsStrip from './components/RatingsStrip';
@@ -204,6 +210,7 @@ return (
 <div className="relative w-full min-h-screen overflow-x-hidden overflow-y-auto">
 <div className="flex flex-col min-h-screen bg-white">
     <div className="sm:hidden">
+
       <MobileTopBar blogRef={blogRef} onHamburgerClick={() => setMenuOpen(!menuOpen)} />
     </div>
 
@@ -368,6 +375,12 @@ return (
         <Route path="/georgia-wonders" element={<GeorgiaWonders />} />
 <Route path="/laos-cambodia-trail" element={<LaosCambodiaTrail />} />
 <Route path="/bhutan-serenity-escape" element={<BhutanSerenityEscape currency={currency} />} />
+<Route path="/vietnam-hanoi-danang" element={<VietnamHanoiDanang />} />
+<Route path="/danang-phuquoc" element={<DanangPhuquoc />} />
+<Route path="/hanoi-sapa-danang" element={<Hanoisapadanang />} />
+<Route path="/thailand-group-getaway" element={<ThailandGroupGetaway />} />
+
+
 <Route path="/under-50k-trips" element={<Under50kTripsBlog />} />
 <Route path="/visa-free-countries" element={<VisaFreeCountriesBlog />} />
 <Route path="/monthwise-travel-guide" element={<MonthwiseTravelBlog />} />
