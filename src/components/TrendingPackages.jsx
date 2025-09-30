@@ -59,18 +59,14 @@ const TrendingPackages = ({ onRequestCallback, onTileClick }) => {
 
   const formatDatesInline = (dates = []) => (dates.length ? dates.join(" • ") : "");
 
-  return (
-    <section className="max-w-[1300px] mx-auto px-8 py-6">
-      {/* Heading */}
-      <div className="flex items-center justify-between mb-4">
-        
-
-        <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-6 text-center flex items-center justify-center gap-4">
-Upcoming Hosted Group Tours
-        </h2>
-        {/* Hidden on desktop per instruction (no View all needed) */}
-        <div className="hidden md:block" />
-      </div>
+return (
+  <section className="max-w-[1300px] mx-auto px-8 py-6">
+    {/* Heading */}
+    <div className="mb-4 text-center">
+      <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-6">
+        Upcoming Hosted Group Tours
+      </h2>
+    </div>
 
       {/* Mobile filters: Date & Location — same line */}
       <div className="md:hidden px-0 py-3 flex gap-4 mb-0">
@@ -227,4 +223,5 @@ Upcoming Hosted Group Tours
 };
 
 export default TrendingPackages;
+
 
